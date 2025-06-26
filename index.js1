@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: 'center', padding: '50px' }}>
+      <h1>Welcome to ShopTheBomb.com 💥🇺🇸</h1>
+      <p>The greatest American-made marketplace is coming soon!</p>
+    </div>
+  );
+}
